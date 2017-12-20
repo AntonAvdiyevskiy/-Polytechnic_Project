@@ -1,4 +1,5 @@
 # -Polytechnic_Project
+# -Technical task
 Introduction: I will develop web resource for ordering and buying different kids toys .User will have possibility to choose toys by some parameters.Resource will be very useful for those adults,who want to save time on choosing toy for their children,so the best variant of present will be proposed.
 Functional:
 1)loging page
@@ -10,6 +11,16 @@ Functional:
 7)search toys by categories
 8)displaying the most popular toy and brand
 development requirements:
-1) development environment:IntelijIdea
+1) development environment:Eclipse
 2)Database:MySql
 3)Technologies:Java
+#Description of project and used technologies
+This project was created  using  frameworks: SpringMVC,SpringData JPA,Spring Security,Hibernate.
+MySQL was also used as a database. Also I used JSP and JSTL 
+with a combination of Css / HTML for designing pages. UI was created based on a template.
+User can login as admin or simple user.Admin have possibility to add new toys,categories of toy and brands to database.
+Also,admin can delete toys,categories of toy and brands from database.
+Simple user have acces to his profile,where he can view toys which were bought.Only simple user can buy commodity.
+As well, I have realized searching toys by name of toy and category,sorting commodities by price.
+
+
