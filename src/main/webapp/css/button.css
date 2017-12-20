@@ -1,0 +1,10 @@
+
+.btn-6d {
+ border: 2px dashed white;
+ background:white;
+}
+ 
+.btn-6d:hover {
+ background: white;
+ color: red;
+}

@@ -1,0 +1,12 @@
+body {
+  background: #060e1b;
+  overflow: hidden;
+  background-image: url('http://cdn.pcwallart.com/images/cosmos-wallpaper-3.jpg');
+}
+
+canvas {
+  //opacity: 0.5;
+}
+.BG{
+	background: #060e1b;
+}

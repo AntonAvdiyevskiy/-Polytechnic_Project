@@ -1,0 +1,10 @@
+.footer {
+  background: #292f36;
+  color: #fff;
+  line-height: 1.6;
+  padding: 1em;
+  min-height: $header-height;
+  text-align: center;
+  height:68px;
+   
+}
